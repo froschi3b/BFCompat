@@ -1,0 +1,4 @@
+BFCompat
+========
+
+BetterFurnaces Compatibility Addon
